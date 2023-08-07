@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcFirmaCagri",
+    "\\MvcFirmaCagri\\App_Start",
+    "\\MvcFirmaCagri\\Models",
+    "\\MvcFirmaCagri\\Models\\Entity",
+    "\\MvcFirmaCagri\\Views",
+    "\\MvcFirmaCagri\\Views\\Login"
+  ],
+  "SelectedNode": "\\MvcFirmaCagri\\Web.config",
+  "PreviewInSolutionExplorer": false
+}
